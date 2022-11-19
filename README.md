@@ -5,3 +5,7 @@
 Mostly Obby games but still fun to troll noobs.
 
 **NOTE: MAY HAVE TO RESPAWN AFTER EXECUTING SCRIPT TO GET THE PERMANENT GEARS, TEMPORARY GEARS SHOULD LOAD IN AUTOMATICALLY**
+
+Example:
+![image](https://user-images.githubusercontent.com/100789011/202842115-ea8ef1c3-f8a8-4980-b185-81dc834ebcf6.png)
+
