@@ -12,6 +12,6 @@ Example:
 ## INSTRUCTIONS:
 **Step 1:** Simply execute this script and respawn in the game and you should receive all gears
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stroobs/Get-All-Gamepasses/main/mainscript_obf.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StroobWasTaken/Get-All-Gamepasses/main/mainscript_obf.lua"))();
 ```
 **Step 2:** Have fun :D
